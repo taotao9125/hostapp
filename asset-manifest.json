@@ -1,25 +1,26 @@
 {
   "files": {
-    "main.js": "https://taotao9125.github.io/hostapp/static/js/main.45c53304.js",
-    "static/css/856.df91fc96.chunk.css": "https://taotao9125.github.io/hostapp/static/css/856.df91fc96.chunk.css",
-    "static/js/856.82b46478.chunk.js": "https://taotao9125.github.io/hostapp/static/js/856.82b46478.chunk.js",
+    "main.js": "https://taotao9125.github.io/hostapp/static/js/main.9e2fafdf.js",
+    "static/css/111.0f56f520.chunk.css": "https://taotao9125.github.io/hostapp/static/css/111.0f56f520.chunk.css",
+    "static/js/111.38dfcb46.chunk.js": "https://taotao9125.github.io/hostapp/static/js/111.38dfcb46.chunk.js",
     "static/js/791.aa7adce2.chunk.js": "https://taotao9125.github.io/hostapp/static/js/791.aa7adce2.chunk.js",
     "static/js/787.7f320c1d.chunk.js": "https://taotao9125.github.io/hostapp/static/js/787.7f320c1d.chunk.js",
-    "static/css/170.3babf211.chunk.css": "https://taotao9125.github.io/hostapp/static/css/170.3babf211.chunk.css",
-    "static/js/170.2b3a49c7.chunk.js": "https://taotao9125.github.io/hostapp/static/js/170.2b3a49c7.chunk.js",
+    "static/css/310.0123e02b.chunk.css": "https://taotao9125.github.io/hostapp/static/css/310.0123e02b.chunk.css",
+    "static/js/310.a1ce2e1b.chunk.js": "https://taotao9125.github.io/hostapp/static/js/310.a1ce2e1b.chunk.js",
     "static/js/164.b0838c6b.chunk.js": "https://taotao9125.github.io/hostapp/static/js/164.b0838c6b.chunk.js",
     "static/media/logo.svg": "https://taotao9125.github.io/hostapp/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "https://taotao9125.github.io/hostapp/index.html",
-    "main.45c53304.js.map": "https://taotao9125.github.io/hostapp/static/js/main.45c53304.js.map",
-    "856.df91fc96.chunk.css.map": "https://taotao9125.github.io/hostapp/static/css/856.df91fc96.chunk.css.map",
-    "856.82b46478.chunk.js.map": "https://taotao9125.github.io/hostapp/static/js/856.82b46478.chunk.js.map",
+    "static/media/index.cjs": "https://taotao9125.github.io/hostapp/static/media/index.cd351d7c31d0d3fccf96.cjs",
+    "main.9e2fafdf.js.map": "https://taotao9125.github.io/hostapp/static/js/main.9e2fafdf.js.map",
+    "111.0f56f520.chunk.css.map": "https://taotao9125.github.io/hostapp/static/css/111.0f56f520.chunk.css.map",
+    "111.38dfcb46.chunk.js.map": "https://taotao9125.github.io/hostapp/static/js/111.38dfcb46.chunk.js.map",
     "791.aa7adce2.chunk.js.map": "https://taotao9125.github.io/hostapp/static/js/791.aa7adce2.chunk.js.map",
     "787.7f320c1d.chunk.js.map": "https://taotao9125.github.io/hostapp/static/js/787.7f320c1d.chunk.js.map",
-    "170.3babf211.chunk.css.map": "https://taotao9125.github.io/hostapp/static/css/170.3babf211.chunk.css.map",
-    "170.2b3a49c7.chunk.js.map": "https://taotao9125.github.io/hostapp/static/js/170.2b3a49c7.chunk.js.map",
+    "310.0123e02b.chunk.css.map": "https://taotao9125.github.io/hostapp/static/css/310.0123e02b.chunk.css.map",
+    "310.a1ce2e1b.chunk.js.map": "https://taotao9125.github.io/hostapp/static/js/310.a1ce2e1b.chunk.js.map",
     "164.b0838c6b.chunk.js.map": "https://taotao9125.github.io/hostapp/static/js/164.b0838c6b.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/main.45c53304.js"
+    "static/js/main.9e2fafdf.js"
   ]
 }
